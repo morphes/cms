@@ -1,0 +1,4 @@
+<?php
+return array (
+  'Overblog\\GraphQLBundle\\__DEFINITIONS__\\PageInfoType' => __DIR__ . '/PageInfoType.php',
+);
